@@ -21,4 +21,4 @@
 
 ### Pregunta Única (20 points)
 
-Ver enunciado en archivo PDF.
+Ver enunciado en archivo PDF `PC3_lab104_2021_2.pdf`.
